@@ -1,3 +1,4 @@
+#include <dt-bindings/zmk/pointing.h>
 /*
  * Copyright (c) 2020 The ZMK Contributors
  *
